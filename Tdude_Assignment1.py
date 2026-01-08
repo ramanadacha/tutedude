@@ -1,6 +1,6 @@
 fn = int(input("Enter the First Number : "))
 sn = int(input("Enter the Second Number : "))
-print ("Addition : ", fn+sn  ) 
+print ("Hello  ", fn+sn  ) 
 print ("Substract : ", fn-sn  ) 
 print ("Multiplication : ", fn*sn  ) 
 print ("division : ", fn/sn  ) 
